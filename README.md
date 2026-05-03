@@ -44,10 +44,6 @@ Analyzed trends and model behavior
 Successfully implemented and compared ML and DL models
 Identified performance differences between XGBoost and LSTM
 Improved accuracy using feature engineering techniques
-▶️ How to Run
-# Clone repository
-git clone https://github.com/your-username/stock-price-prediction.git
-
 # Install dependencies
 pip install -r requirements.txt
 
